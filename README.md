@@ -1,2 +1,2 @@
 # MAC-Changer
-Python program to changer your MAC Address
+Python program to change your MAC Address
