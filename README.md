@@ -1,7 +1,9 @@
 # MAC-Changer
-Python program to change your MAC Address
+Python3 program to change your MAC Address
+
+## Usage
 
 ```
-$ python mac_changer.py --interface  --mac new-mac-address
-$ python mac_changer.py -i  -m
+$ python3 mac_changer.py --interface eth0 --mac 00:11:22:33:44:55
+$ python3 mac_changer.py -i eth0 -m 00:11:22:33:44:55
 ```
